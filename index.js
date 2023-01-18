@@ -1,5 +1,5 @@
 console.log('asdasd')
 
-
-
-console.log('asdasd asdadd assdad')
+function name(params) {
+ return console.log(params);
+}
